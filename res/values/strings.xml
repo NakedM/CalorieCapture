@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Colorie Capture</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="camera_button">CAMERA</string>
+    <string name="graph_button">GRAPH</string>
+   
+	<string name="radio_button_today">Today</string>
+    <string name="radio_button_week">Week</string>
+    <string name="radio_button_month">Month</string>
+    <string name="back_to_main">Back to Main</string>
+</resources>
